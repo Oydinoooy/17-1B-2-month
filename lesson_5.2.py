@@ -16,6 +16,4 @@ git branch
 
 git checkout -b (olya) - Создает новыую ветку
 
-
-
 """
