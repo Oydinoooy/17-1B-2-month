@@ -17,3 +17,13 @@ git branch
 git checkout -b (olya) - Создает новыую ветку
 
 """
+
+"""
+Команды для пуша на существующий репозиторий 
+
+git add .
+
+git commit -m "create test.py"
+
+git push
+"""
